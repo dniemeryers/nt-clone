@@ -6,7 +6,7 @@
 <br>
 
 <p>Video 1: </p>
-<p align="center"><img src="../img/pc.gif">
+<p align="center"> <img src="img/pc.gif">
 
 <br>
 
