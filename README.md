@@ -5,7 +5,7 @@
 
 <br>
 
-<p>Video 1 Desktop: </p>
+<p>Video 1 Computador: </p>
 <p align="center"> <img src="img/pc.gif">
 
 
