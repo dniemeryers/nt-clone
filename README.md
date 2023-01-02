@@ -22,9 +22,13 @@
 <h2 align="center"> Tecnologias utilizadas </h2>
 
 <p align="esquerda">
-<img align="center" src="https:// raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="50" width="50" alt="Javascript"/>
-<img align="center" src="https:// raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="50" width="50" alt="HTML5"/>
-<img align="center" src="https:// raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="50" width="50" alt="HTML5"/>
+
+<img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="50" width="50" alt="Javascript"/>
+
+<img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="50" width="50" alt="HTML5"/>
+
+<img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="50" width="50" alt="HTML5"/>
+
 </p>
 
 <h2 align="center"> Bibioteca utilizada </h2>
