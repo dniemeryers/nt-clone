@@ -5,8 +5,13 @@
 
 <br>
 
-<p>Video 1: </p>
+<p>Video 1 Desktop: </p>
 <p align="center"> <img src="img/pc.gif">
+
+
+<p>Video 2 Mobile: </p>
+<p align="center"> <img src="img/mobile.gif">
+
 
 <br>
 
