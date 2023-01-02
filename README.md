@@ -31,7 +31,7 @@
 
 </p>
 
-<h2 align="center"> Bibioteca utilizada </h2>
+<h2 align="center"> Biblioteca utilizada </h2>
 
 -  ``owl.carousel``
 
