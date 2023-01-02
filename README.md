@@ -1,7 +1,7 @@
 <h1 align="center"> CLONE NETFLIX </h1>
 
 <h2 align="center">Descrição do projeto </h2>
-<p>Feito em HTML, CSS E JAVASCRIPT foi usado uma bibliteca de carrosel para expor os filmes e estilizados botões e menu. projeto totalmente responsivo .</p>
+<p>Desenvolvido a interface do NETFLIX como aprendizagem e treinar as Skill em HTML, CSS E JAVASCRIPT e usado uma bibliteca de carrosel para mostrar os demais filmes. projeto responsivo .</p>
 
 <br>
 
@@ -13,20 +13,19 @@
 <p align="center"> <img src="img/mobile.gif">
 
 
-<br>
-
-<h2 align="center"> Funcionalidades do projeto </h2>
-
--   ``Funcionalidade :`` CALCULADORA.
 
 <br>
 
 <h2 align="center"> Acesso ao projeto </h2>
-<p> Você pode acessar o projeto final clicando aqui: https://dniemeryers.github.io/trilha-react-desafio01-calculadora/ </p>
+<p> Você pode acessar o projeto final clicando aqui: https://dniemeryers.github.io/nt-clone/ </p>
 <br>
 <h2 align="center"> Tecnologias utilizadas </h2>
 
--   ``REAGIR``
+<p align="esquerda">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https:// raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="50" width="50" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img align="center" src="https:// raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="50" width="50" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img align="center" src="https:// raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="50" width="50" alt="HTML5" /></a>
+</p>
 
 <h2 align="center"> Extensões utilizadas </h2>
 
